@@ -1,3 +1,7 @@
+# Copyright (c) 2026 Giovanni Ruocco
+# Licensed under the Non-Commercial License (NCL)
+# See LICENSE file for details
+
 # -*- coding: utf-8 -*-
 """User_manual.ipynb
 
